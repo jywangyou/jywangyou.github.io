@@ -3,11 +3,11 @@
   <title>忘忧的小站</title>
   
   
-  <link href="https://jywangyou.github.io/project/atom.xml" rel="self"/>
+  <link href="https://jywangyou.github.io/atom.xml" rel="self"/>
   
-  <link href="https://jywangyou.github.io/project/"/>
+  <link href="https://jywangyou.github.io/"/>
   <updated>2021-12-02T05:24:18.784Z</updated>
-  <id>https://jywangyou.github.io/project/</id>
+  <id>https://jywangyou.github.io/</id>
   
   <author>
     <name>忘忧</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>ES6</title>
-    <link href="https://jywangyou.github.io/project/2021/11/30/ES6/"/>
-    <id>https://jywangyou.github.io/project/2021/11/30/ES6/</id>
+    <link href="https://jywangyou.github.io/2021/11/30/ES6/"/>
+    <id>https://jywangyou.github.io/2021/11/30/ES6/</id>
     <published>2021-11-30T10:10:58.000Z</published>
     <updated>2021-12-02T05:24:18.784Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="-JS" scheme="https://jywangyou.github.io/project/categories/JS/"/>
+    <category term="-JS" scheme="https://jywangyou.github.io/categories/JS/"/>
     
     
-    <category term="-es6" scheme="https://jywangyou.github.io/project/tags/es6/"/>
+    <category term="-es6" scheme="https://jywangyou.github.io/tags/es6/"/>
     
   </entry>
   
   <entry>
     <title>这个是测试的页面</title>
-    <link href="https://jywangyou.github.io/project/2021/11/27/text/"/>
-    <id>https://jywangyou.github.io/project/2021/11/27/text/</id>
+    <link href="https://jywangyou.github.io/2021/11/27/text/"/>
+    <id>https://jywangyou.github.io/2021/11/27/text/</id>
     <published>2021-11-27T10:10:58.000Z</published>
     <updated>2021-11-27T11:09:04.338Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="-小测试昂" scheme="https://jywangyou.github.io/project/categories/%E5%B0%8F%E6%B5%8B%E8%AF%95%E6%98%82/"/>
+    <category term="-小测试昂" scheme="https://jywangyou.github.io/categories/%E5%B0%8F%E6%B5%8B%E8%AF%95%E6%98%82/"/>
     
     
-    <category term="-text -hexo -测试" scheme="https://jywangyou.github.io/project/tags/text-hexo-%E6%B5%8B%E8%AF%95/"/>
+    <category term="-text -hexo -测试" scheme="https://jywangyou.github.io/tags/text-hexo-%E6%B5%8B%E8%AF%95/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://jywangyou.github.io/project/2021/11/27/hello-world/"/>
-    <id>https://jywangyou.github.io/project/2021/11/27/hello-world/</id>
+    <link href="https://jywangyou.github.io/2021/11/27/hello-world/"/>
+    <id>https://jywangyou.github.io/2021/11/27/hello-world/</id>
     <published>2021-11-27T08:41:07.689Z</published>
     <updated>2021-11-27T08:41:07.689Z</updated>
     
