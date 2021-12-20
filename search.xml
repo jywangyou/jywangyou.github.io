@@ -4,7 +4,7 @@
   
     
     <entry>
-      <title>node</title>
+      <title>node.js&amp;MongoDB</title>
       <link href="/2021/12/16/node/"/>
       <url>/2021/12/16/node/</url>
       
@@ -38,14 +38,16 @@
       
       <categories>
           
-          <category> -JS </category>
+          <category> JS </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -js -函数 </tag>
+            <tag> 函数 </tag>
+            
+            <tag> js </tag>
             
         </tags>
       
@@ -63,14 +65,14 @@
       
       <categories>
           
-          <category> -教程 </category>
+          <category> 教程 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -markdown </tag>
+            <tag> markdown </tag>
             
         </tags>
       
@@ -88,14 +90,16 @@
       
       <categories>
           
-          <category> -JS </category>
+          <category> JS </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> -正则 -js </tag>
+            <tag> js </tag>
+            
+            <tag> 正则 </tag>
             
         </tags>
       
