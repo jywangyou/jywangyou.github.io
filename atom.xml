@@ -3,11 +3,11 @@
   <title>忘忧的小站</title>
   
   
-  <link href="https://jywangyou.github.io/atom.xml" rel="self"/>
+  <link href="https://wangyou.ink/atom.xml" rel="self"/>
   
-  <link href="https://jywangyou.github.io/"/>
+  <link href="https://wangyou.ink/"/>
   <updated>2021-12-20T10:16:22.384Z</updated>
-  <id>https://jywangyou.github.io/</id>
+  <id>https://wangyou.ink/</id>
   
   <author>
     <name>忘忧</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>node.js&amp;MongoDB</title>
-    <link href="https://jywangyou.github.io/2021/12/16/node/"/>
-    <id>https://jywangyou.github.io/2021/12/16/node/</id>
+    <link href="https://wangyou.ink/2021/12/16/node/"/>
+    <id>https://wangyou.ink/2021/12/16/node/</id>
     <published>2021-12-16T00:10:00.000Z</published>
     <updated>2021-12-20T10:16:22.384Z</updated>
     
@@ -47,17 +47,17 @@
     
     
     
-    <category term="学习笔记" scheme="https://jywangyou.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://wangyou.ink/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="node" scheme="https://jywangyou.github.io/tags/node/"/>
+    <category term="node" scheme="https://wangyou.ink/tags/node/"/>
     
   </entry>
   
   <entry>
     <title>关于JS和时间相关的函数</title>
-    <link href="https://jywangyou.github.io/2021/12/11/JS-time/"/>
-    <id>https://jywangyou.github.io/2021/12/11/JS-time/</id>
+    <link href="https://wangyou.ink/2021/12/11/JS-time/"/>
+    <id>https://wangyou.ink/2021/12/11/JS-time/</id>
     <published>2021-12-11T02:10:58.000Z</published>
     <updated>2021-12-27T11:15:18.478Z</updated>
     
@@ -81,17 +81,17 @@
     
     
     
-    <category term="JS" scheme="https://jywangyou.github.io/categories/JS/"/>
+    <category term="JS" scheme="https://wangyou.ink/categories/JS/"/>
     
     
-    <category term="函數" scheme="https://jywangyou.github.io/tags/%E5%87%BD%E6%95%B8/"/>
+    <category term="函數" scheme="https://wangyou.ink/tags/%E5%87%BD%E6%95%B8/"/>
     
   </entry>
   
   <entry>
     <title>Markdown语法</title>
-    <link href="https://jywangyou.github.io/2021/12/07/usemd/"/>
-    <id>https://jywangyou.github.io/2021/12/07/usemd/</id>
+    <link href="https://wangyou.ink/2021/12/07/usemd/"/>
+    <id>https://wangyou.ink/2021/12/07/usemd/</id>
     <published>2021-12-07T10:10:58.000Z</published>
     <updated>2021-12-20T10:05:58.458Z</updated>
     
@@ -110,17 +110,17 @@
     
     
     
-    <category term="教程" scheme="https://jywangyou.github.io/categories/%E6%95%99%E7%A8%8B/"/>
+    <category term="教程" scheme="https://wangyou.ink/categories/%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="markdown" scheme="https://jywangyou.github.io/tags/markdown/"/>
+    <category term="markdown" scheme="https://wangyou.ink/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>正则</title>
-    <link href="https://jywangyou.github.io/2021/12/04/grep/"/>
-    <id>https://jywangyou.github.io/2021/12/04/grep/</id>
+    <link href="https://wangyou.ink/2021/12/04/grep/"/>
+    <id>https://wangyou.ink/2021/12/04/grep/</id>
     <published>2021-12-04T02:10:58.000Z</published>
     <updated>2021-12-20T10:08:36.154Z</updated>
     
@@ -135,19 +135,19 @@
     
     
     
-    <category term="JS" scheme="https://jywangyou.github.io/categories/JS/"/>
+    <category term="JS" scheme="https://wangyou.ink/categories/JS/"/>
     
     
-    <category term="正则" scheme="https://jywangyou.github.io/tags/%E6%AD%A3%E5%88%99/"/>
+    <category term="正则" scheme="https://wangyou.ink/tags/%E6%AD%A3%E5%88%99/"/>
     
-    <category term="js" scheme="https://jywangyou.github.io/tags/js/"/>
+    <category term="js" scheme="https://wangyou.ink/tags/js/"/>
     
   </entry>
   
   <entry>
     <title>ES6</title>
-    <link href="https://jywangyou.github.io/2021/11/30/ES6/"/>
-    <id>https://jywangyou.github.io/2021/11/30/ES6/</id>
+    <link href="https://wangyou.ink/2021/11/30/ES6/"/>
+    <id>https://wangyou.ink/2021/11/30/ES6/</id>
     <published>2021-11-30T10:10:58.000Z</published>
     <updated>2021-12-18T09:39:49.889Z</updated>
     
@@ -158,10 +158,10 @@
     
     
     
-    <category term="JS" scheme="https://jywangyou.github.io/categories/JS/"/>
+    <category term="JS" scheme="https://wangyou.ink/categories/JS/"/>
     
     
-    <category term="es6" scheme="https://jywangyou.github.io/tags/es6/"/>
+    <category term="es6" scheme="https://wangyou.ink/tags/es6/"/>
     
   </entry>
   
